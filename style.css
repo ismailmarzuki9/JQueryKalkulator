@@ -1,0 +1,20 @@
+body{
+   margin: 0px 0px;
+   background-color: black; 
+}
+
+.cal{
+    background-color: white;
+    margin: 2% 25%;
+    padding: 1px;
+}
+.btn{
+    background-color: rgb(31, 208, 231);
+    padding: 1px;
+}
+.num{
+    background-color: rgb(152, 152, 184);
+    width: 50px;
+    height: 50px;
+    margin: 0px;    
+}
